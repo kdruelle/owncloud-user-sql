@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+       <id>user_sql_backend</id>
+       <name>SQL user backend</name>
+       <description>Authenticate Users by SQL</description>
+       <licence>AGPL</licence>
+       <author>Kevin Druelle</author>
+       <require>5.0</require>
+       <shipped>false</shipped>
+       <types>
+                <authentication/>
+       </types>
+</info>
